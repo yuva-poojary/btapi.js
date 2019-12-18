@@ -1,0 +1,29 @@
+{
+  "name": "btapi.js",
+  "version": "1.0.0",
+  "description": "Official api for https://botstemple.glitch.me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "phin": "^3.4.0"
+  },
+  "engines": {
+    "node": "11.x"
+  },
+  "repository": {
+    "url": "https://github.com/BotsTemple/btapi.js"
+  },
+  "homepage": "https://botstemple.glitch.me",
+  "license": "MIT",
+  "keywords": [
+    "bot list",
+    "discord",
+    "bots-temple",
+    "api",
+    "discord bots",
+    "Bots"
+  ]
+}
