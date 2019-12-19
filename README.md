@@ -7,7 +7,7 @@ const Client = require('btapi.js');
 const BTClient = new Client('API_TOKEN', 'BOT_ID');
 
 // Posting server count.
-BTClient.postServers(<guilds>).then(() => {
+BTClient.postServers(/*<guilds>*/).then(() => {
   console.log("Posted!");
 });
 ```
